@@ -1,0 +1,7 @@
+class Entry
+{
+    //attributes
+    
+    //behaviors
+
+}
